@@ -3,7 +3,7 @@ export const AdminMenuItems = [
     {
       href: "#",
       icon: "bi-box",
-      label: "Manage Users",
+      label: "Manage Use",
       subMenu: [
         { href: "#", label: "Admin", icon: "bi-box" },
         {
