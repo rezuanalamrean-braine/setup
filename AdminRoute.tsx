@@ -30,7 +30,7 @@ export const AdminMenuItems = [
         ],
       },
       
-      { href: "/admin/courses",
+      { href: "/admin/",
         icon: "bi-journal-text", 
         label: "Courses",
     
